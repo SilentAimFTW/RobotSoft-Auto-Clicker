@@ -1,0 +1,522 @@
+MZ       ÿÿ  ¸       @                                   €   º ´	Í!¸LÍ!This program cannot be run in DOS mode.
+$       PE  L èOkÏ        à " 
+0  :         ¶X       `                                 ã    @…                           cX  O    `  t                   €     HW  T                                                             H           .text   ¼8       :                    `.rsrc   t   `      <              @  @.reloc      €      B              @  B                —X      H     40  %  	       HU  €  ÈV  €                                   0 Ã      (  
+ ( (  
+(  
+- s  
++}  (   ô  (   Ð   (  
+   (  (  
+}  (  
+o  
+@@@(  
+o  
+o  
+o   
+o!  
+"  Bs"  
+o#  
+o   
+o!  
+o   
+o$  
+l#      à?Zks"  
+(  ç(  (  (%  
+(  (   ÿ    €   (  
+(  (
+  (   à    à    à   (  
+(
+  s&  
+(-  D('  
+
+#s&  
+('   ¦    ¦    ¦   (  
+(%  r  p()  
+Ýs&  
+(!   ¦    ¦    ¦   (  
+(  r   p(#   @   @  s(  
+()  
+*{  *R(*  
+}  }  *{	  *"}	  *{  *v-
+r  ps+  
+z}  }  *(,  
+*"(-  
+*{
+  *"}
+  *{
+  *"}
+  *{  *"}  *{
+  *"}
+  *{  *"}  *{  *"}  *{  *"}  *{  *"}  *{  *"}  *{  *"}  *{  *"}  *{  *"}  *{  *"}  *{  *"}  *{  *"}  *{  *"}  *(.  
+*"(/  
+*{  *"}  *Š %(0  
+kX(1  
+ %(2  
+kX(3  
+*Š %(4  
+kX(5  
+ %(6  
+kX(7  
+*š (8  
+i (9  
+i (:  
+i (;  
+is<  
+*:(=  
+(>  
+*  0 –     (  
+-n(?  
+3+{   
+(?  
+
+ (@  
+ þ (A  
+_þo8  +){   
+(?  
+
+ (@  
+ þ (A  
+_þo7  (?  
+sB  
+}   {  -o;  oC  
+o<  Þ&Þ *        ’’ %  o;  *o;  *0 x       (D  
+,0(D  
+%þ 9  sE  
+oF  
+(D  
+%þ :  sG  
+oH  
+(I  
+(D  
+,0(D  
+%þ 9  sE  
+oJ  
+(D  
+%þ :  sG  
+oK  
+*:(L  
+(>  
+* 0 Ê     {  (  
+3-*(  
+}  {  oM  
+|  þ  (  0(  
+ksN  
+}  (>  
+*{  {  
+ (O  
+-	(  
+k+  (P  
+(  
+k(  j(  sQ  
+(R  
+oS  
+{  oT  
+{  þ=  sU  
+sV  
+oW  
+*  0 Ð       -D{  oX  
+,6{  oX  
+oY  
+(Z  
+j3{  oX  
+o[  
+(  (\  
+,*{  oM  
+|  þ  (  0s]  
+}  (>  
+*{  "    " €³C(Z  
+j(  sQ  
+(R  
+oS  
+{  oT  
+{  þ>  sU  
+sV  
+oW  
+*o;  *o;  *0 t    
+
+(^  
+{  %-&+(_  
+o`  
+sa  
+}  o`  
+(b  
+ ÿ   3Ý+  (D  
+9ù   (D  
+oc  
+>è   (D  
+od  
+>×   (D  
+oc  
+(D  
+od  
+se  
+
+	(f  
+sg  
+	oh  
+si  
+sj  
+(D  
+(k  
+(D  
+(l  
+o`  
+(b  
+1{  (m  
+on  
+Þ, oo  
+Ü	sp  
+}  {  tA  (m  
+(q  
+ek(m  
+(r  
+ekos  
+Þ1	,	oo  
+Ü ÿ   o`  
+(t  
+sa  
+}  Þ
+ ,(u  
+Ü*AL     ™   ]   ö             ‘   ±   B  
+             e  i  
+       0  M    
+
+(^  
+ov  
+ow  
+~x  
+(y  
+(.  (z  
+({  
+ü(/  
+(  (  X/<(  (  X(|  
+ ~x  
+(y  
+ (.  (z  
+({  
+þ Z(/  
+(  ~}  
+(~  
+,k(  (  
+(~  
+,Y(  ,Q(  sa  
+	s  
+o€  
+(  20(  (.  	þ(  Z(/  
+{  	s  
+o€  
+(  (.  	þ(  Z(/  
+(  sa  
+	s  
+(0  {  (  
+-(  + (‚  
+k{  		(O  
+-	(  
+k+ 	(P  
+(ƒ  
+kY(„  
+(ƒ  
+Yk["  ´CZo…  
+(  20(  (.  	þ(  Z(/  
+{  	s  
+o€  
+(  (.  	þ(  Z(/  
+(
+  ~}  
+(~  
+,k(
+  (  
+(~  
+,Y(  ,Q(
+  sa  
+	s  
+o€  
+(  20(  (.  	þ(  Z(/  
+{  	s  
+o€  
+o†  
+~‡  
+(ˆ  
+,ÝÂ  %(0  
+(,  
+
+(‰  
+kX(1  
+%(2  
+(,  
+
+(Š  
+kX(3  
+%(6  
+(,  
+
+(‹  
+kY(7  
+%(4  
+(,  
+
+(Œ  
+kY(5  
+o  
+.+sŽ  
+%o  
+%o  
+o†  
+o   
+o‘  
+(0  
+(6  
+(6  
+Y"   @[X(2  
+(4  
+(4  
+Y"   @[X(’  
+("  ~‡  
+(“  
+-((  ~‡  
+(“  
+9s  "    
+~”  
+~”  
+
+((  ~‡  
+(“  
+,`((  (  o‘  
+(6  
+
+(•  
+
+%(6  
+(&  
+
+(‹  
+kY(7  
+%(4  
+(&  
+
+(Œ  
+kY(5  
+("  ~‡  
+(“  
+,`("  (  o‘  
+
+
+(6  
+
+(•  
+
+
+%(6  
+(   
+
+(‹  
+kY(7  
+
+%(4  
+(   
+
+(Œ  
+kY(5  
+%(0  
+
+"  €@[Y(1  
+((  ~‡  
+(“  
+9   (0  
+(6  
+X(6  
+"   @[Y(2  
+(4  
+"š™Y?ZY(’  
+%(0  
+(&  
+
+(‰  
+kX(1  
+%(2  
+(&  
+
+(Š  
+kX(3  
+((  (  ($  sa  
+s  
+o–  
+("  ~‡  
+(“  
+9   (0  
+(6  
+X
+(6  
+"   @[Y(2  
+(4  
+"š™Y?ZX(’  
+%(0  
+(   
+
+(‰  
+kX(1  
+%(2  
+(   
+
+(Š  
+kX(3  
+("  (  (  sa  
+
+s  
+o–  
+o†  
+o   
+o—  
+sa  
+s  
+o–  
+Þ
+ ,(u  
+ÜÞ&Þ *   A4        9  =  
+               I  I     %  0 #       sN  
+}  (>  
+Þ&{  oM  
+Þ *        %  0 *       "  ´C]is]  
+}  (>  
+Þ&{  oM  
+Þ *         %  BSJB         v4.0.30319     l   $  #~    ˜  #Strings    (     #US D     #GUID   T  À  #Blob         W¢		   ú3      H         >   *   —   a            ,                 ê      v• õ• nw Æ   ²Ï  Ê
+ #
+ ¯
+ B
+ à
+ ý
+ –
+ ›
+ Lµ
+ ËÔ ï
+	 _
+  Ô -
+T
+ Eù	 ; 
+	 }
+ù	[ ¼
+   F x
+ù	 ¶T
+ 1• ? Ô Ç T
+ –    ¢ …  6
+	 1
+T
+ ¨
+	 	
+T
+ å
+ n ›
+
+ ãÔ
+ Ô
+ ‚Ô
+ ˆÔ 	T
+ ÕT
+ @Ô k Ð ‰  Å
+
+	 @
+T
+ J
+
+	 [ù	 i
+ù	 F 
+	 O ù	 
+	 ^¶   F  T
+	 4 iÙ l  L
+	 û 
+	 Á
+T
+ ÷ 0    ]         %
+%
+M   ! N9 ~= G D ²
+K AO š
+S ÚW c _ Ô_  g_ _  „_ ,_ 9 H_ šb ô_ X ¡f ¹< x Âf Ø< åfP     †X  "    †6
+j '"    †L
+o <"    †Ç 4  D"    †Ú   M"    b
+6 U"    †~
+u s"    Æ£K  {"    Æ¬a  „"    †•
+` Œ"    †¤
+=  •"    †G	4  "    †W	  ¦"    †t4   ®"    †ƒ   ·"    †³
+` ¿"    †Â
+=  È"    †g	4 	 Ð"    †w	 	 Ù"    †’4 
+ á"    †¡ 
+ ê"    †Ñ
+`
+ ò"    †ã
+= 
+ û"    †°4  #    †Â  #    †µK 
+ #    †Ça 
+ #    †`4  %#    †o  .#    †õ
+` 6#    †=  ?#    †‡	{ G#    †›	€ P#    †ÿ‡  X#    †  a#    †` i#    †0=  r#    †¯	{ z#    †Å	€ ƒ#    †#‡  ‹#    †7  ”#    Æí‡  œ#    Æö  ¥#    †Û	{ ­#    †ê	€ ¶#    ‘ š† Ù#    ‘ † Ž ü#    ‘  ˜ #$    Ä O  4$    Ä ‡¡ è$    Ä a  ð$    Ä !  ø$    Ä z   |%    Ä @ ! Œ%    Äã " d&    Ä0 # @'    ÄÀ¨$ H'    Ä§ °& P'    Ä ( )    Ä¸( ¬/      ‹ ) ì/      ‹ *    n    n    n    n    n    n    n    n    n    n    n    n    n    n    n    n    n    n    n    n    n    n    #
+   K   Ž
+   K   ¯
+   ´    ´    ´    ´    ´    ´    å   å   9
+   
+   9
+   @
+      K   K	 X  X  X
+ ) X 1 X 9 X A X I X Q X Y X a X i X q X y X ‰ X ‘ X Ù X QX aX! iX ™ X qÇ( !0 ¡ X ™   ™ 3 4 á U8 q‡
+= á µ C qk
+= qŠ q£K é gP é XV q¬a é t g á V8 ñ Xk ™ =  ™Xs q} y ± Û
+€ ¡X ™ £K ™ ¬a ™ í‡ ™ ö ù  g ù £ ‹ ù © g ù ¯ ‹ ×
+g â
+‹ `g j‹  g © g `g ×
+g 	Xk qO q ™ ¬¢  þ
+®  V 0  X³ !j¹ qJ¿ ©XÅ q­Ë ±XÅ q™ Ò qz qË qŽ Ò q@ ¡  
+  X³  V 0  þ
+® ¹Xí Á_ö ¡ J
+ ¡ 
+ $ XÅ , X¡ Q"¡ Q,¹
+
+2™ í 4 ¹)
+6Ùv; X³ áW
+YÁ ô qy
+`éX= á f eq`4 q×
+4 9Xs ABiùXs ñt r	Xx!X‚qùŒq{ŒqŠ–A’œô 	X¥	 4 	© 4 		¬á µ ²áù
+ºAeêAñùøùí
+ýqt r™í
+!fá á ‚XAü( V 0  þ
+® ™ /	4 ™ ;	4 AL1qí‡ )<)v?ñ ´
+4 ñ 
+4 ñ Í
+4 ñ 	4 q½
+EIXKIRIRAé Yù X¬)‚?b!MgA÷ mq]
+`) “ |. 
+ à.  é.  . # . + Y. 3 o. ; |. C ¥. K ï. S ï. [ ý. c ý. k C s &C { ,C ƒ qI “ |i › Ši £ “€ ‹ !‰ › ™‰ £ &  ‹ !© “ ¢É “ ²é “ ²	“ ¢!‹ !)“ ²@‹ !A‹ !I“ ²`‹ !a‹ !i“ ¢€‹ !‹ !‰“ ² ‹ !¡‹ !©“ ¢À‹ !Á‹ !É“ ²à‹ !á‹ !é“ ¢ ‹ !‹ !	“ ² ‹ !!‹ !)“ ¢@‹ !A‹ !I“ ¢`‹ !a‹ !i“ ²€‹ !‹ !‰“ ¢ ‹ !¡‹ !©› ™©£ &À‹ !Á‹ !É“ ²à‹ !á‹ ! ‹ !‹ ! ‹ !!‹ !@‹ !A‹ !`‹ !€‹ ! ‹ !À‹ !à‹ ! ‹ ! ‹ !@‹ !`‹ !€‹ ! ‹ !À‹ !à‹ ! ‹ ! ‹ !€‹ ! ‹ !  ‹ !À ‹ !— Ù E¿     
+¿  Ä  ‚
+È  ÔÍ  ¨
+Ò  [	Ä  ‡Ä  Æ
+Ò  {	Ä  ¥Ä  ç
+Ò  ÆÄ  ËÍ  ‡Ä  Ò  Ÿ	×  Ü  4Ò  É	×  ;Ü  FÜ  î	×                       	  	 	  
+ 
+  
+ 
+   
+  
+ 
+                                                          !  ! !  " #  # #  $ %  % %  & '  ' '  ( )  ) )  * +  + +  , -  - - § á ç €          —%
+             |¾                |
+	               …               |T
+             Žù	           ì
+     <InitializeContinues>b__102_0 <InitializeMarquee>b__103_0 Nullable`1 Action`1 SafeInvoker`1 <Module> get_A System.Drawing.Drawing2D RectangleF SizeF PointF get_X set_X get_Y set_Y FromArgb mscorlib get_AnimationSpeed set_AnimationSpeed get_MarqueeAnimationSpeed set_MarqueeAnimationSpeed OnParentBackgroundImageChanged OnStyleChanged OnLocationChanged OnParentBackColorChanged OnParentChanged set_DoubleBuffered add_Invalidated remove_Invalidated ParentOnInvalidated <AnimationSpeed>k__BackingField <StartAngle>k__BackingField <InnerWidth>k__BackingField <OuterWidth>k__BackingField <ProgressWidth>k__BackingField <InnerMargin>k__BackingField <OuterMargin>k__BackingField <SubscriptMargin>k__BackingField <SuperscriptMargin>k__BackingField <TextMargin>k__BackingField <InnerColor>k__BackingField <OuterColor>k__BackingField <ProgressColor>k__BackingField <SubscriptColor>k__BackingField <SuperscriptColor>k__BackingField <SecondaryFont>k__BackingField <SubscriptText>k__BackingField <SuperscriptText>k__BackingField InvokePaintBackground set_SmoothingMode get_DesignMode InitializeMarquee FromImage FillPie IDisposable get_StartAngle set_StartAngle _animatedStartAngle FillRectangle ToRectangle get_Style ProgressBarStyle SetStyle FontStyle _lastStyle firstTime Type Dispose FillEllipse Invalidate Delegate EditorBrowsableState CompilerGeneratedAttribute NeutralResourcesLanguageAttribute DebuggableAttribute EditorBrowsableAttribute AssemblyTitleAttribute TargetFrameworkAttribute ToolboxItemAttribute AssemblyFileVersionAttribute AssemblyInformationalVersionAttribute AssemblyConfigurationAttribute AssemblyDescriptionAttribute ToolboxBitmapAttribute CompilationRelaxationsAttribute AssemblyProductAttribute AssemblyCopyrightAttribute AssemblyCompanyAttribute CategoryAttribute RuntimeCompatibilityAttribute DefaultBindingPropertyAttribute get_Value set_Value _animatedValue get_HasValue _lastValue value get_Size set_Size AddSize add_Resize remove_Resize ParentOnResize System.Threading Padding System.Runtime.Versioning MeasureString DrawString System.Drawing SolidBrush RecreateBackgroundBrush TextureBrush _backBrush Math get_ActivePath get_Width set_Width get_InnerWidth set_InnerWidth get_OuterWidth set_OuterWidth get_ProgressWidth set_ProgressWidth System.ComponentModel CircularProgressBar.dll Control System get_Bottom TranslateTransform get_Minimum get_Maximum get_InnerMargin set_InnerMargin get_OuterMargin set_OuterMargin get_SubscriptMargin set_SubscriptMargin get_SuperscriptMargin set_SuperscriptMargin get_TextMargin set_TextMargin WinFormAnimation get_Duration System.Reflection get_Function get_AnimationFunction set_AnimationFunction get_CustomAnimationFunction set_CustomAnimationFunction _knownAnimationFunction _animationFunction ArgumentNullException FromKnown Bitmap CircularProgressBar.CircularProgressBar.bmp get_Top Stop CircularProgressBar sender InvalidateEventHandler Enter get_ForeColor set_ForeColor get_BackColor set_BackColor get_InnerColor set_InnerColor get_OuterColor set_OuterColor get_ProgressColor set_ProgressColor get_SubscriptColor set_SubscriptColor get_SuperscriptColor set_SuperscriptColor Animator _animator .ctor Monitor Abs get_Graphics System.Diagnostics get_Bounds System.Runtime.CompilerServices System.Resources DebuggingModes ControlStyles InitializeContinues StringFormatFlags InvalidateEventArgs invalidateEventArgs PaintEventArgs eventArgs set_Paths System.Windows.Forms PathExtensions KnownAnimationFunctions set_Repeat StringFormat Object rect get_Left get_RightToLeft get_Right get_Height set_Height op_Implicit Exit GetValueOrDefault set_Alignment set_LineAlignment StringAlignment Component get_Parent get_Transparent set_TextRenderingHint InvokePaint OnPaint StartPaint AddPoint get_Font set_Font get_SecondaryFont set_SecondaryFont System.Drawing.Text get_Text set_Text get_SubscriptText set_SubscriptText get_SuperscriptText set_SuperscriptText v Max Play get_Gray ToArray get_FontFamily op_Equality op_Inequality Empty    ° C  . 2 3  
+v a l u e   ¼“£ DÔGÈÖã
+        A €­  €½      q q  q  u  €Å
+ €Å€É u      €Í ]e    €
+ Uii  iUi       €¡  €¹  €Õ €Ù  UUU 
+]	 €Ý€Ý  €Ý€å€é
+ €å 	 €é  €Ý  
+  ]	 €í€í  q€€¡€‘€…   q   €¡€ù  €Í	 €ý€Í	 €¡€…	 €¹€‘  €… a€… €ù   qq * }€€¥€}UUy€€}} 	 
+€ý  }€ý €€Í q  qq }€ a€‰
+ a€…     ! €u€  ua€‰€¥·z\V4à‰°?_Õ
+:1Ð{%ßy³€  $  €  ”      $  RSA1     u[–þ~"2z¬˜÷ÝÎšügÇŠ	(·È¦¿Â±&®¨ðf²£ŠøŽÁŽ%õ>×5Ž¹ÕÍº"[@Æ`d4Så'D-$Aùhô‘Dd‡ˆ<îv¼,VÕývi
+C¶Z !ïªy‰ÁHyB`d÷n¾­~–k0o6ñæy¯°QUU]ae Uiuy  e e ]  y y  }}	 €€ €…€‰ €‘  €™  € €¡( e( ( ]( u( q( y(         TWrapNonExceptionThrows      G .NETFramework,Version=v4.0 TFrameworkDisplayName.NET Framework 4 Soroush Falahati    Release  ( #Copyright (c) 2019 Soroush Falahati  I DCircular ProgressBar is a custom control for WinForm with animation.  
+ 2.8.0.16   CircularProgressBar  
+ en-US        D 'CircularProgressBar.CircularProgressBarCircularProgressBar.bmp  
+ Value  
+ Behavior                    
+Appearance  
+ Layout    |  BM|      z   (                 
+  
+        ÞÞÞ   ÿ ÿ ”  ú + ì V Ý Œ Å Ä ® ÿœ àÉÖ ú>¢ õm± ÞÖÚ ï‘½ æ¨Å æºÎ                                                                                                                                                                                 D
+³ù+3ƒe'lÎquŒd-ÝÞ’ž£ñTeûw+Ã”{v|‰Zã¬ï«‰an€W%ž¥ÁnB”jn÷ë o¢EO”;©ãm=Þ"üÛæ*†‘ú¬Å2‚‡Ü¾Ô	[©½ÀWªKI[¶àwæj"°˜§îƒ•X`{uH7<n
+öß[¨äJ    Ú³ø MP       œW  œ9                '   <X  <:                             RSDS²]xöÕÁK²p+­†@F   E:\Personal\Open-Source Projects\CircularProgress\CircularProgress[master]\CircularProgressBar\obj\Release\net4\CircularProgressBar.pdb SHA256 ²]xöÕÁ
+2p+­†@FÚ³xJ;KÆ¬ë…MÓ_Ÿ2‹X          ¥X                          —X            _CorDllMain mscoree.dll      ÿ%                                                                                                                                                                                                                                                                                                                                                           €                  0  €                   H   X`            4   V S _ V E R S I O N _ I N F O     ½ïþ             ?                         D    V a r F i l e I n f o     $    T r a n s l a t i o n       °v   S t r i n g F i l e I n f o   R   0 0 0 0 0 4 b 0   ¢ E  C o m m e n t s   C i r c u l a r   P r o g r e s s B a r   i s   a   c u s t o m   c o n t r o l   f o r   W i n F o r m   w i t h   a n i m a t i o n .     B   C o m p a n y N a m e     S o r o u s h   F a l a h a t i     P   F i l e D e s c r i p t i o n     C i r c u l a r P r o g r e s s B a r   2 	  F i l e V e r s i o n     2 . 8 . 0 . 1 6     P   I n t e r n a l N a m e   C i r c u l a r P r o g r e s s B a r . d l l   l $  L e g a l C o p y r i g h t   C o p y r i g h t   ( c )   2 0 1 9   S o r o u s h   F a l a h a t i   X   O r i g i n a l F i l e n a m e   C i r c u l a r P r o g r e s s B a r . d l l   H   P r o d u c t N a m e     C i r c u l a r P r o g r e s s B a r   6 	  P r o d u c t V e r s i o n   2 . 8 . 0 . 1 6     : 	  A s s e m b l y   V e r s i o n   2 . 8 . 0 . 1 6                                                                                                                                                                                                                                                                                                                                                                                                                      P     ¸8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
